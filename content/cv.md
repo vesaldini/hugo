@@ -1,0 +1,1 @@
+How to launch CV straight away?
