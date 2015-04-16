@@ -10,7 +10,6 @@
 		  {{ if eq .Type "posts" }}
 	        <li>
 	          <span><a href="{{ .Permalink }}">{{ .Title }}</a> <time style='float:right;' class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</time></span>
-	          {{.summary}}
 	        </li>
 		  {{end}}
 		{{end}}

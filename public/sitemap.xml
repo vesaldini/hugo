@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://vesaldini.org/</loc>
+    <lastmod>2015-03-28T16:21:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vesaldini.org/about/</loc>
+    <lastmod>2015-03-28T16:21:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vesaldini.org/posts/post1/</loc>
+    <lastmod>2015-03-28T16:21:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vesaldini.org/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://vesaldini.org/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>http://vesaldini.org/research/</loc>
+  </url>
+  
+</urlset>
