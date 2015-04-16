@@ -1,0 +1,23 @@
+baseurl = "http://vesaldini.org"
+languageCode = "en-us"
+title = "Vesal Dini"
+theme = "hyde"
+copyright = "Vesal Dini"
+
+[Author]
+	name = "Vesal Dini"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = ""
+	twitter = "https://twitter.com/vesaldini"
+	linkedin = "http://linkedin.com/vesaldini"
+
