@@ -1,0 +1,23 @@
+languageCode = "en-us"
+title = "Vesal Dini"
+theme = "hyde-x"
+baseurl = "https://vesaldini.herokuapp.com/"
+copyright = "Vesal Dini"
+
+[Author]
+	name = "Vesal Dini"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = ""
+	twitter = "https://twitter.com/vesaldini"
+	linkedin = "http://linkedin.com/vesaldini"
+
